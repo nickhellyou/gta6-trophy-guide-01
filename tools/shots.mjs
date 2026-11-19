@@ -27,10 +27,13 @@ const MIME = {
 };
 
 // Demo ticks: a reader part-way through Chapter 1 and the early grinds.
+// Kept clear of story trophies on purpose, so the spoiler screenshot shows
+// the masking at work instead of three already-revealed story rows.
 const DEMO_EARNED = [
-  'Just Like Paradise', 'Paradise Lost', 'Trust', 'Cunning Stunts',
+  'Cunning Stunts',
   'Master of None', 'Baited My Tackle', 'Stick Fiddler', 'Whip It Good',
   'Treat Yo Self', 'On the Spot', 'In The Beginning…', 'Ten Pin',
+  'Earn Cash, Not Kudos', 'Top Fun', 'The Goodtime State',
 ];
 
 const SHOTS = [
